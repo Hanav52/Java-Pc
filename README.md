@@ -1,65 +1,36 @@
-# Project-Java-PC
-
-<div align="center">
   <h1>- PC방 음식 주문 시스템 -</h1>
-  2학년 1학기 [Java 프로그래밍 응용] 과제 프로젝트 <br>
   2021. 5. 5. ~ 2021. 6. 26. <br> <br>
-  <img src="https://img.shields.io/badge/JDK-17-gray?logo=openjdk&logoColor=black&labelColor=FFFFFF&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/mysql-8-gray?logo=mysql&logoColor=black&labelColor=4479A1&style=for-the-badge"/>
 
-  <h2>Contributer</h2>
-  
-<table>
-  <tr>
-    <td align="center">
+## 팀원
+
+<div>
       <a href="https://www.github.com/UniM0cha">
-        <img src="https://github.com/UniM0cha.png" width="100px;"/>
-        <br/><b>@UniM0cha</b>
+        <b>@UniM0cha</b>
       </a>
-    </td>
-    <td>
       <ul>
         <li>데이터베이스 설계 및 연결</li>
         <li>데이터베이스 서버 구축</li>
       </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
       <a href="https://www.github.com/Hanav52">
-        <img src="https://github.com/Hanav52.png" width="100px;"/>
-        <br/><b>@Hanav52</b>
+        <b>@Hanav52</b>
       </a>
-    </td>
-    <td>
       <ul>
         <li>손님용 화면 디자인</li>
         <li>결제 로직 구현</li>
       </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
       <a href="https://www.github.com/qsc0415">
-        <img src="https://github.com/qsc0415.png" width="100px;"/>
-        <br/><b>@qsc0415</b>
+        <b>@qsc0415</b>
       </a>
-    </td>
-    <td>
       <ul>
         <li>카운터용 화면 디자인</li>
         <li>실제 판매 상품 조사, 이미지 검색</li>
       </ul>
-    </td>
-  </tr>
-
-</table>
+</div>
 
   
-  <h2>Presentation</h2>
-  <img width="960" alt="슬라이드1" src="https://user-images.githubusercontent.com/77760474/191898981-ce517214-d622-4207-b5ea-68ae4d2318c4.png">
+## 화면 및 발표
+
+<img width="960" alt="슬라이드1" src="https://user-images.githubusercontent.com/77760474/191898981-ce517214-d622-4207-b5ea-68ae4d2318c4.png">
   <img width="960" alt="슬라이드2" src="https://user-images.githubusercontent.com/77760474/191898989-c163489c-9f33-4254-afba-9993ebb987a9.png">
   <img width="960" alt="슬라이드3" src="https://user-images.githubusercontent.com/77760474/191898992-dfcd2ad9-884e-40b2-b76b-df5b0d1c119b.png">
   <img width="960" alt="슬라이드4" src="https://user-images.githubusercontent.com/77760474/191898995-48ff4f5d-92c5-4557-948f-fd9c169e8e94.png">
